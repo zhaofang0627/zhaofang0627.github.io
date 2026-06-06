@@ -20,6 +20,7 @@ I am an Associate Professor at the School of Intelligence Science and Technology
 [<font size="5">Selected Papers</font>](#publications)<a id="publications"></a>
 ======
 <ul>
+  <li>S. Zhang, L. Ma, Z. Wang, W. Dong, X. Xu, G. Xie, C. Shan, <strong>F. Zhao<sup>✉</sup></strong>. TD-VAD: Breaking Visual Dependence in Video Anomaly Detection with Text-Driven Learning. International Conference on Machine Learning (ICML), 2026.</li>
   <li>H. Rao, Z. Wang, C. Si, Y. Lyu, Y. Duan, <strong>F. Zhao<sup>✉</sup></strong>, C. Shan<sup>✉</sup>. One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (Highlight)</li>
   <li>X. Xu, H. Wang, G. Xie, C. Shan, <strong>F. Zhao<sup>✉</sup></strong>. HiTeA: Hierarchical Temporal Alignment for Training-Free Long-Video Temporal Grounding. International Conference on Learning Representations (ICLR), 2026.</li>
   <li>C. Zhang, Y. Lin, Y. Wei, H. Wang, C. Shan, <strong>F. Zhao<sup>✉</sup></strong>. Matting Anything 2: Towards Video Matting for Anything. International Conference on Learning Representations (ICLR), 2026.</li>
