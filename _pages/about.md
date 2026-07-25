@@ -20,6 +20,7 @@ I am an Associate Professor at the School of Intelligence Science and Technology
 [<font size="5">Selected Papers</font>](#publications)<a id="publications"></a>
 ======
 <ul>
+  <li>X. Xu, C. Fu, X. Wang, S. Liu, C. Shan, <strong>F. Zhao<sup>✉</sup></strong>. ACE-ing Video Corpus Moment Retrieval: An Automated Dataset Construction and Unified Retrieval-Localization Framework. ACM International Conference on Multimedia (ACM MM), 2026.</li>
   <li>X. Liu, W. Li, T. Chen, H. Wang, G. Xie, C. Shan, <strong>F. Zhao<sup>✉</sup></strong>. QST-SAM: Leveraging Cross-modal Instructions for Few-shot Referring Video Object Segmentation. European Conference on Computer Vision (ECCV), 2026.</li>
   <li>W. Dong, Z. Wang<sup>✉</sup>, S. Zhang, K. Sun, B. Li, G. Xie, C. Shan, <strong>F. Zhao<sup>✉</sup></strong>. CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection. European Conference on Computer Vision (ECCV), 2026.</li>
   <li>R. Deng*, Y. Hu*, Y. Zhong*, Z. Wang<sup>✉</sup>, X. Liu, H. Wang, C. Shan, <strong>F. Zhao<sup>✉</sup></strong>. Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection. European Conference on Computer Vision (ECCV), 2026.</li>
